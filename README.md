@@ -14,7 +14,8 @@
   
   - :zap: В свободное время я решаю задачи на GeeksforGeeks, LeetCode и читаю технические статьи.
   
-  - :mailbox:Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kimf_m)
+  - :mailbox:Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kimf_m) или
+                                    [![Mail.ru Badge](https://img.shields.io/badge/-Mail.ru-orange?style=flat&logo=Mail.ru&logoColor=white)](https://e.mail.ru/compose/?to=ms.semakova99@mail.ru)
 
   ---
 
