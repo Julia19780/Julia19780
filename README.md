@@ -8,7 +8,7 @@
 
 ### :woman_technologist: Обо мне :
   Я Frontend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
-  - :telescope: Я создаю интерфейсы веб-сайтов и приложений, с которыми взаимодействуют пользователи.
+  - :telescope: Создаю интерфейсы веб-сайтов и приложений, с которыми взаимодействуют пользователи.
   - :mailbox:Как со мной связаться: 
                                     [![Mail.ru Badge](https://img.shields.io/badge/-Mail.ru-orange?style=flat&logo=Mail.ru&logoColor=white)](https://e.mail.ru/compose/?to=ms.semakova99@mail.ru)
 
